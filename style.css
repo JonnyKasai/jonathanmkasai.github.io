@@ -7,3 +7,10 @@ h1 {
 h2 {
 	text-align: center;
 }
+.pic {
+	padding: 250px 0;
+	margin: 30px;
+  font-family: 'Helvetica', Helvetica, sans-serif;
+  background-image: url("https://www.reverbnation.com/page_object/page_object_photos/artist_4797087");
+  background-size: cover;
+}
