@@ -1,19 +1,12 @@
 body {
   font-family: 'Shrikhand', cursive;
 }
-h1 {
+h1, h2 {
   height: 100%;
 	border: 1px solid #000;
 	margin: 6px;
 	text-align: center;
 	padding: 60px
-}
-h2 {
-	font-family:'Open Sans', sans-serif;
-	text-align: center;
-}
-h4 {
-	font-family:'Open Sans', sans-serif;
 }
 .pic {
   background-image: url("https://f4.bcbits.com/img/0004839674_10.jpg");
