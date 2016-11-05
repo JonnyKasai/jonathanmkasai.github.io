@@ -5,16 +5,5 @@ h1 {
 	width: 100%;
 }
 h2 {
-	color: red;
 	text-align: center;
-}
-.hero {
-2
-        padding: 250px 0;
-3
-        margin: 30px;
-4
-  background-image: url("https://www.reverbnation.com/page_object/page_object_photos/artist_4797087");
-5
-  background-size: cover;
 }
