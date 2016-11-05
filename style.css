@@ -9,6 +9,9 @@ body {
   font-family: 'Shrikhand', cursive;
   font-weight: 300;
 }
+body.2 {
+	font-family: 'Open Sans', sans-serif;
+}
 h1 {
   height: 100%;
 	margin: 0;
