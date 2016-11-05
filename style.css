@@ -13,6 +13,9 @@ h2 {
 	font-family:'Open Sans', sans-serif;
 	text-align: center;
 }
+h4 {
+	font-family:'Open Sans', sans-serif;
+}
 .pic {
   background-image: url("https://f4.bcbits.com/img/0004839674_10.jpg");
   background-size: cover;
