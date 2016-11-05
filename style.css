@@ -3,7 +3,7 @@
   display: flex;
   align-items: center;
   background-image: url('https://f4.bcbits.com/img/a2236382388_10.jpg');
-  background-size: header;
+  background-size: contain;
   color: #ffffff;
   height: 100px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
