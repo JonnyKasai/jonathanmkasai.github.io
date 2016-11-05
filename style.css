@@ -4,9 +4,12 @@ body {
 }
 h1 {
   height: 100%;
-	margin: 0;
+	border: 1px solid #000;
+	margin: 6px;
 	text-align: center;
-	width: 100%;
+	padding: 60px
+}
+
 }
 h2 {
 	text-align: center;
