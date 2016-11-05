@@ -8,6 +8,9 @@ h1 {
 	text-align: center;
 	padding: 60px
 }
+h2 {
+	text-align: center;
+}
 .pic {
   background-image: url("https://f4.bcbits.com/img/0004839674_10.jpg");
   background-size: cover;
