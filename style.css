@@ -1,4 +1,13 @@
-h1 {
+
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('https://f4.bcbits.com/img/a2236382388_10.jpg');
+  background-size: cover;
+  color: #ffffff;
+  height: 500px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}h1 {
   height: 100%;
 	margin: 0;
 	text-align: center;
