@@ -1,4 +1,9 @@
-h1 {
+.hero {
+	padding: 250px 0;
+	margin: 30px;
+  background-image: url("https://www.reverbnation.com/page_object/page_object_photos/artist_4797087");
+  background-size: cover;
+}h1 {
   height: 100%;
 	margin: 0;
 	text-align: center;
